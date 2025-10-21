@@ -16,11 +16,10 @@ Department of Mechanical and Aerospace Engineering
 🌐 [MAE Faculty Profile →](https://mae.osu.edu/people/goswami.78)
 
 
-## 🚀 Research Focus
-- **Model Predictive Control (MPC)** for real-time autonomy  
-- **Koopman Operator Theory** for nonlinear dynamics linearization  
-- **Learning-based Estimation and Control**  
-- Applications: **Aerial robotics**, **vehicle dynamics**, **autonomous systems**
+## 🚀 Research Focus (including, but not limited to)
+- Data-driven learning and control of dynamical systems
+- Operator theoretic description of control systems
+- Autonomy in drone operation
 
 ---
 
@@ -28,8 +27,6 @@ Department of Mechanical and Aerospace Engineering
 | Project | Description |
 |----------|-------------|
 | [KQ-LMPC](https://github.com/santoshrajkumar/kq-lmpc-quadrotor) | Real-Time Koopman-based Linear MPC for Quadrotors *(IEEE RA-L 2025)* |
-| [SOAR Flight Stack](https://github.com/SOARLabOSU/soar-flightstack) | PX4-based hardware-in-the-loop platform for SE(3) control |
-| [Koopman-RL Integration](https://github.com/SOARLabOSU/koopman-rl) | Combining Koopman models with reinforcement learning |
 
 ---
 
