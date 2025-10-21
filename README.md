@@ -1,6 +1,7 @@
 # 🧠 SOAR Lab @ The Ohio State University  
 **Systems Optimization, Autonomy, and Robotics Lab**  
 Advancing real-time control, learning, and autonomy through model-based and data-driven methods.
+
 Led by **[Dr. Debdipta Goswami](https://goswami78.github.io/)**  
 ---
 
