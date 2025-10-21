@@ -36,11 +36,12 @@ Department of Mechanical and Aerospace Engineering
 ---
 
 ## 🧑‍🔬 Team
-Led by **[Dr. Debdipta Goswami](https://mae.osu.edu/people/goswami.97)**  
-Graduate researchers at The Ohio State University.
+## 🧑‍🔬 Team
 
-📍 *Mechanical & Aerospace Engineering, OSU*  
-🌐 [soarlab.osu.edu](https://soarlab.osu.edu) (if applicable)
+| Member | Role | Profile |
+|:--------|:------|:--------|
+| **[Santosh Rajkumar](https://github.com/santoshrajkumar)** | Ph.D. Student | [🐙 GitHub](https://github.com/santoshrajkumar)  [🔗 Homepage](https://scholar.google.com/citations?user=) |
+| **[Chenyu Yang](https://github.com/chenyu-yang)** | M.S. Student — *Hardware Integration, PX4-based Flight Experiments* | [🐙 GitHub](https://github.com/chenyu-yang) |
 
 ---
 
