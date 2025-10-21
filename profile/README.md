@@ -18,7 +18,7 @@ Department of Mechanical and Aerospace Engineering
 🔬 **Lab:** W078 Scott Laboratory  
 📞 **Phone:** +1 (614) 247-6063  
 ✉️ **Email:** goswami.78 [@] osu [DOT] edu  
-🌐 [MAE Faculty Profile](https://mae.osu.edu/people/goswami.78) [SOAR Homepage]([https://mae.osu.edu/people/goswami.78](https://goswami78.github.io/SOAR_Lab/index.html)
+🌐 [MAE Faculty Profile](https://mae.osu.edu/people/goswami.78) [SOAR Homepage](https://mae.osu.edu/people/goswami.78](https://goswami78.github.io/SOAR_Lab/index.html)
 
 
 ## 🚀 Research Focus (including, but not limited to)
