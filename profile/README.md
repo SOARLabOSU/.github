@@ -36,7 +36,6 @@ Department of Mechanical and Aerospace Engineering
 ---
 
 ## 🧑‍🔬 Team
-## 🧑‍🔬 Team
 
 | Member | Role | Profile |
 |:--------|:------|:--------|
