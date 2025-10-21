@@ -3,7 +3,7 @@
 > **Systems, Optimization, and Autonomous Robotics Lab**
 
 <p align="center">
-  <img src="../media/SOAR_Logo.png" alt="SOAR Lab @ The Ohio State University" width="40%" />
+  <img src="../media/SOAR_Logo.png" alt="SOAR Lab @ The Ohio State University" width="60%" />
 </p>
 
 
