@@ -1,12 +1,12 @@
 # 🧠 SOAR Lab @ The Ohio State University  
 
 > **Systems, Optimization, and Autonomous Robotics Lab**
-
+🌐 [SOAR Homepage](https://goswami78.github.io/SOAR_Lab/index.html)
 <p align="center">
   <img src="../media/SOAR_Logo.png" alt="SOAR Lab @ The Ohio State University" width="60%" />
 </p>
 
-[SOAR Homepage](https://mae.osu.edu/people/goswami.78](https://goswami78.github.io/SOAR_Lab/index.html)
+
 
 ## 📬 Contact
 
