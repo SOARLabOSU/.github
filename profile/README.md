@@ -1,7 +1,6 @@
 # 🧠 SOAR Lab @ The Ohio State University  
 
-> **Systems, Optimization, and Autonomous Robotics Lab**
-🌐 [SOAR Homepage](https://goswami78.github.io/SOAR_Lab/index.html)
+> **Systems, Optimization, and Autonomous Robotics Lab**  [🌐](https://goswami78.github.io/SOAR_Lab/index.html)
 <p align="center">
   <img src="../media/SOAR_Logo.png" alt="SOAR Lab @ The Ohio State University" width="60%" />
 </p>
