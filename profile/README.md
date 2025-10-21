@@ -1,6 +1,6 @@
 # 🧠 SOAR Lab @ The Ohio State University  
 
-**Systems Optimization, Autonomy, and Robotics Lab**  
+> **Systems Optimization, Autonomy, and Robotics Lab**  
 ---
 
 ## 📬 Contact
