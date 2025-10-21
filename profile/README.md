@@ -40,8 +40,10 @@ Department of Mechanical and Aerospace Engineering
 
 | Member | Role | Profile |
 |:--------|:------|:--------|
-| **[Santosh Rajkumar](https://github.com/santoshrajkumar)** | Ph.D. Student | [🐙 GitHub](https://github.com/santoshrajkumar)  [🔗 Homepage](https://scholar.google.com/citations?user=) |
-| **[Chenyu Yang](https://github.com/chenyu-yang)** | M.S. Student — *Hardware Integration, PX4-based Flight Experiments* | [🐙 GitHub](https://github.com/chenyu-yang) |
+|**Ananda Chakraborty**| PhD Student (ECE) |  |
+|**Shahab Ataei**| PhD Student (ECE) |  |
+| **[Santosh Rajkumar](https://santoshrajkumar.github.io)** | Ph.D. Student (ME)| [🐙 GitHub](https://github.com/santoshrajkumar)|
+|**Max Heil**| MS Student (AE) |  |
 
 ---
 
