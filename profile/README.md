@@ -40,10 +40,10 @@ Department of Mechanical and Aerospace Engineering
 
 | Member | Role | Profile |
 |:--------|:------|:--------|
-|**Ananda Chakraborty**| PhD Student (ECE) |  |
-|**Shahab Ataei**| PhD Student (ECE) |  |
-| **[Santosh Rajkumar](https://santoshrajkumar.github.io)** | Ph.D. Student (ME)| [🐙 GitHub](https://github.com/santoshrajkumar)|
-|**Max Heil**| MS Student (AE) |  |
+| Ananda Chakraborty | PhD Student (ECE) |  |
+| Shahab Ataei | PhD Student (ECE) |  |
+| [Santosh Rajkumar](https://santoshrajkumar.github.io) | Ph.D. Student (ME)| [🐙 GitHub](https://github.com/santoshrajkumar)|
+| Max Heil | MS Student (AE) |  |
 
 ---
 
